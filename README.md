@@ -5,8 +5,12 @@
 <h1 align="center">Hi 👋, I'm MD. Azizul Hakim</h1>
 <h3 align="center">Passionate CSE Student | Exploring ML, DL, and AI Deployment | GitHub Explorer</h3>
 
+
 <!-- Gif Image -->
-<img align="right" alt="AI" width="400" src="https://miro.medium.com/v2/resize:fit:1280/1*C7Z3JYA_yScejWcK99ZfGQ.gif">
+<img align="right" alt="AI" width="400" src="https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif">
+
+
+
 
 <!-- About Me -->
 - 🌱 I’m currently learning **Machine Learning And Deep Learning**
