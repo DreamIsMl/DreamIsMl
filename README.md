@@ -1,4 +1,4 @@
-![logo](https://github.com/DreamIsMl/DreamIsMl/blob/main/Untitled-1.tif)
+![logo]([https://github.com/DreamIsMl/DreamIsMl/blob/main/Untitled-1.tif](https://github.com/DreamIsMl/DreamIsMl/blob/main/8a5371d8-640f-4752-8ab5-2ea40663beb5-0.png))
 <h1 align="center">Hi 👋, I'm MD. Azizul Hakim</h1>
 <h3 align="center">Passionate CSE Student | Exploring ML, DL, and AI Deployment | GitHub Explorer</h3>
 
