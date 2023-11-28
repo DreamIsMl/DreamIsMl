@@ -37,4 +37,4 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dreamisml&show_icons=true&locale=en" alt="dreamisml" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dreamisml&" alt="dreamisml" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dreamisml&" alt="dreamisml" /></p>
