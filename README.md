@@ -21,10 +21,10 @@
 <!-- Connect with Me -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/md.azizul hakim" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="md.azizul hakim" height="30" width="40" /></a>
+  <a href="https://twitter.com/Hakim3911" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Hakim3911" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/md.azizul hakim" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md.azizul hakim" height="30" width="40" /></a>
   <a href="https://kaggle.com/hakim11" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hakim11" height="30" width="40" /></a>
-  <a href="https://fb.com/md.azizul hakim" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md.azizul hakim" height="30" width="40" /></a>
+  <a href="https://fb.com/hakim.vsihi.50" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hakim.vsihi.50" height="30" width="40" /></a>
 </p>
 
 <!-- Languages and Tools -->
